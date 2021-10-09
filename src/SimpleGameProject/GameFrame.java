@@ -54,8 +54,10 @@ public class GameFrame extends JFrame {
             @Override
             public void run() {
             while (true) {
+                EnemyPlane enemyPlane =  new EnemyPlane(frame,r.nextInt(500),0 );
+                enemyPlane.start();
                 //添加敌机的时候。让x轴是随机的
-                enemys.add(new EnemyPlane(frame,r.nextInt(500),0 ));
+                enemys.add(enemyPlane);
 
                 try {
                     Thread.sleep(500);
@@ -88,6 +90,7 @@ public class GameFrame extends JFrame {
 
         for (int i = 0; i < enemys.size(); i++) {
             EnemyPlane enemy  = enemys.get(i);
+
             if (enemy.y < 760)
                 bi.drawImage(enemy.img, enemy.x,enemy.y += enemy.speed,enemy.width, enemy.height,null);
             else
