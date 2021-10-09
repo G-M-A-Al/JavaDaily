@@ -6,8 +6,9 @@ import java.util.Scanner;
 
 public class DishApp {
 
-
+    // قائمة لتخزين الاطعمة
     static List<Dish> dishList = new ArrayList<>();
+    // قائمة لتخزين المطلوبات من قبل العميل
     static List<Dish> personDish = new ArrayList<>();
 
     public static void main(String[] args) {

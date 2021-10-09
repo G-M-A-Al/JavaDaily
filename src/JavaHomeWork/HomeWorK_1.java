@@ -12,7 +12,7 @@ public class HomeWorK_1 {
 
         public static void main(String[] args) {
 
-           int n = 17;
+         int n = 17;
            int m = 10;
            do
            {
@@ -22,5 +22,6 @@ public class HomeWorK_1 {
            } while (n != 0);
 
            System.out.println("GCD = " + m);
-        }
+
+         }
 }
