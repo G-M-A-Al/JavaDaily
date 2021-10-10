@@ -3,7 +3,6 @@ package SimpleGameProject;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.image.BufferedImage;
-import java.util.List;
 import java.util.Random;
 import java.util.Vector;
 
@@ -25,7 +24,7 @@ public class GameFrame extends JFrame {
 
 
         this.setSize(500,760); // page size;
-        this.setTitle("My First Game"); // page title;
+        this.setTitle("Java Game"); // page title;
         this.setResizable(false); // page resizable is can or not change size ;
         this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE); // page close / open type
         this.setLocationRelativeTo(null); // page design
