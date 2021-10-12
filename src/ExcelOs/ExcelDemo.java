@@ -1,8 +1,5 @@
 package ExcelOs;
 
-import  org.apache.poi.hssf.usermodel.HSSFWorkbook;
-import  org.apache.poi.ss.usermodel.Workbook;
-
 
 /*
 * 使用Java 的代码生产excel表格
@@ -19,6 +16,6 @@ public class ExcelDemo {
     public static void main(String[] args) {
         //先创建空的excel表格
 
-        Workbook book = new HSSFWorkbook();
+       // Workbook book = new HSSFWorkbook();
     }
 }
