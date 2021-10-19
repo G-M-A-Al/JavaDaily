@@ -29,7 +29,7 @@ public class HomeWork_2_2 {
             }
         }
         System.out.println("100分有：" + oneHundred);
-        System.out.println("90-99分有：" + ninety);
+         System.out.println("90-99分有：" + ninety);
         System.out.println("80-89分有：" + eighty);
         System.out.println("70-79分有：" + seventy);
         System.out.println("60-69分有：" + sixty);

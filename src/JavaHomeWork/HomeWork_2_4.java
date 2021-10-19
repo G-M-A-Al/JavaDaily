@@ -21,7 +21,7 @@ public class HomeWork_2_4 {
             }else if (arr == ' '){
                 space++;
             }else {
-                System.out.println("your enter the data have error!");
+                System.out.println("you enter the data have error!");
             }
 
         }
