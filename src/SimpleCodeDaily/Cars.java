@@ -3,7 +3,7 @@ package SimpleCodeDaily;
 import java.util.Scanner;
 
 public class Cars {
-
+//
         String name ;
         String color;
         String types ;

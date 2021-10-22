@@ -3,7 +3,7 @@ package SimpleGameProject;
 import javax.swing.*;
 import java.awt.*;
 
-
+//
 public class Bullet {
 
     int x , y ;

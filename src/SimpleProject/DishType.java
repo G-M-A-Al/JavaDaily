@@ -10,4 +10,6 @@ public class DishType {
         this.name = name;
         this.price = price;
     }
+
+    //
 }

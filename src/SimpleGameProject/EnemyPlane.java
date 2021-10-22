@@ -36,7 +36,7 @@ public class EnemyPlane extends Thread  {
     public void run() {
         while (true) {
             // 向左走
-
+            //
             // 碰撞到了
             if (hit()) {
                 this.speed = 0;

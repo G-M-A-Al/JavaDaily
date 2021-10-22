@@ -1,6 +1,6 @@
 package com.smartHome;
 
-public class JFtext {
+public class JFtext {//
 
     String sc;
     String nu;

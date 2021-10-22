@@ -1,7 +1,7 @@
 package com.smartHome;
 
 import javax.swing.*;
-
+//
       /*
       * smart home project(for more open ..... )
       * */

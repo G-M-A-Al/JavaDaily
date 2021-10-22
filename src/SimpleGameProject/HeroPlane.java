@@ -17,7 +17,7 @@ public class HeroPlane extends Thread {
     boolean up , down , left , right;
     public HeroPlane() {
     }
-
+    //
     public HeroPlane(int x, int y, int width, int height) {
         this.x = x;
         this.y = y;

@@ -4,7 +4,7 @@ import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 /*
 *  定义一个玩家
-*  */
+*  *///
 public class Player extends KeyAdapter {
 
     GameFrame frame ;
