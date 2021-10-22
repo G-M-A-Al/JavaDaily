@@ -1,7 +1,10 @@
 package JavaHomeWork;
 
 import java.util.Scanner;
-
+                /*
+                * 使用键盘输入一个字符串，编写程序统计这个字符串中的字母、
+                * 空格和数字的个数。
+                * */
 public class HomeWork_2_4 {
 
     static Scanner input = new Scanner(System.in);

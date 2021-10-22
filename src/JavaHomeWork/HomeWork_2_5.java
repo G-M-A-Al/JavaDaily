@@ -2,6 +2,11 @@ package JavaHomeWork;
 
 import java.util.Scanner;
 
+            /*
+            * 编程实现将数组中的值按逆序重新存放，
+            * 例如：原来顺序是9、7、4、6，要求改为6、4、7、9。
+            * */
+
 public class HomeWork_2_5  {
     static  Scanner input = new Scanner(System.in);
     public static void main(String[] args)   {

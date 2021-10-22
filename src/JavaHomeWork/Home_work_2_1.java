@@ -2,6 +2,11 @@ package JavaHomeWork;
 
 import java.util.Scanner;
 
+            /*
+            * .声明一个数组，保存一个学生的数学、语文、英语、物理、化学等课程的成绩，
+            * 编写一个程序，计算5门课程的平均成绩，精确到0.1分，成绩值从键盘录入
+            * */
+
 public class Home_work_2_1 {
 
 

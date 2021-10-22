@@ -2,6 +2,12 @@ package JavaHomeWork;
 
 import java.util.Scanner;
 
+        /*
+        * 编程实现统计50名学生的百分制成绩中各分数段的学生人数，
+        * 即：分别统计出100分、90-99分、80-89分、70-79分、60-69分、
+        * 不及格的学生人数
+        * */
+
 public class HomeWork_2_2 {
 
     public static void main(String[] args) {
