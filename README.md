@@ -9,6 +9,6 @@ Observatory | Interactively displays temperatures and deviations all around the 
 
 
 ## تجربة 
-                                                                                                                                                                          :-- | :-- 
+ :-- | :-- 
 مرحبا | اهلا وسهلا 
 
