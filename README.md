@@ -11,4 +11,4 @@ Observatory | Interactively displays temperatures and deviations all around the 
 project | test |
 :--| :--| 
 
-test  | test | test | [test] (https://github.com)
+test  | test | test | [test] (https://github.com) [test]
